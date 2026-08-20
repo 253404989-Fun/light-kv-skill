@@ -1,0 +1,52 @@
+schema_version: 2
+library: failure-library
+asset_mode: metadata-only
+entries:
+  - id: FAIL-001
+    title: Generic flowing ribbons
+    classification: failure
+    symptoms: [generic-light-ribbon, random-particles, blue-orange-cliche]
+    avoid: ["single glowing ribbon as the main answer", "particles used to fill an empty composition"]
+    corrective_direction: "Use large light planes, occlusion, and negative space."
+  - id: FAIL-002
+    title: Glowing 3D bar templates
+    classification: failure
+    symptoms: [cheap-3d, glow-stack, speed-trail, generic-future-copy]
+    avoid: ["glowing cylinders", "speed trails", "unauthorized Future or Intelligence slogans"]
+    corrective_direction: "Reduce objects to planes, edge light, and color-field relationships."
+  - id: FAIL-003
+    title: Slogan and human-silhouette formula
+    classification: failure
+    symptoms: [human-silhouette, slogan-led, landscape-metaphor]
+    avoid: ["human silhouette", "journey toward light", "motivational slogan"]
+    corrective_direction: "Remove narrative figures and let abstract light relationships carry the composition."
+  - id: FAIL-004
+    title: Random particle banners
+    classification: failure
+    symptoms: [random-particles, stock-tech, decorative-glow]
+    avoid: ["particle density as sophistication", "unstructured arcs of light"]
+    corrective_direction: "Use explicit surfaces, edges, scale, and occlusion."
+  - id: FAIL-005
+    title: Literal portals and corridors
+    classification: failure
+    symptoms: [literal-door, corridor, human-silhouette, rainbow-beam]
+    avoid: ["doorway", "room or corridor", "person walking toward a bright future"]
+    corrective_direction: "Keep scale and perspective while removing recognizable architecture."
+  - id: FAIL-006
+    title: Data city and HUD imagery
+    classification: failure
+    symptoms: [data-city, hud, code-rain, speed-trail, glow-stack]
+    avoid: ["data skyline", "waveform wall", "HUD icon", "red-blue speed line"]
+    corrective_direction: "Keep information semantics in the Brief instead of literal data symbols."
+  - id: FAIL-007
+    title: Doorway and human-figure event templates
+    classification: failure
+    symptoms: [literal-door, human-silhouette, perspective-rays, template-tech]
+    avoid: ["door", "human figure", "radiating perspective-line stack"]
+    corrective_direction: "Replace the door with an ownerless optical intersection or plane gap."
+  - id: FAIL-008
+    title: Rainbow doorway templates
+    classification: failure
+    symptoms: [literal-door, rainbow-gradient, mirror-floor, template-tech]
+    avoid: ["rainbow portal", "mirror room", "generic summit typography"]
+    corrective_direction: "Limit color to a local role and remove literal spatial references."
