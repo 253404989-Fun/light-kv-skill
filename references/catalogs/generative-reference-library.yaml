@@ -1,0 +1,72 @@
+schema_version: 2
+library: generative-reference-library
+asset_mode: metadata-only
+entries:
+  - id: GEN-001
+    title: Optical color-field textures
+    classification: generative-reference
+    review_status: approved-public-abstraction
+    rights_status: not-applicable
+    allowed_use: design-reasoning
+    rationale: "Adapt directional ripples, sparse dot fields, or soft-focus color fields as local optical mechanisms."
+    tags:
+      composition: [horizontal-flow, negative-space]
+      light: [gradient-field, optical-reflection]
+      material: [digital-texture, light-surface]
+      color: [cool-spectrum, warm-highlight]
+    preserve: ["directionality of the optical texture", "dominant dark field with a localized color field"]
+    avoid: ["covering the whole canvas with texture", "turning dots into code or data", "decorative particle noise"]
+    copy_policy: reject-all-reference-copy
+    canvas_policy: obey-canvas-lock
+
+  - id: GEN-002
+    title: Translucent optical plane compositions
+    classification: generative-reference
+    review_status: approved-public-abstraction
+    rights_status: not-applicable
+    allowed_use: design-reasoning
+    rationale: "Combine translucent planes, tapered light volumes, refraction boundaries, and near-far scale relationships."
+    tags:
+      composition: [central-focus, deep-perspective, large-scale-planes]
+      light: [beam-light, translucent-layer, optical-intersection]
+      material: [glass, light-surface]
+      color: [dark-contrast, warm-cool-opposition]
+    preserve: ["front-to-back layering", "convergence and expansion of light", "separate roles for warm and cool colors"]
+    avoid: ["literal corridor", "lens flare", "fog used to hide weak structure"]
+    copy_policy: reject-all-reference-copy
+    canvas_policy: obey-canvas-lock
+
+  - id: GEN-003
+    title: Blue plane perspectives
+    classification: generative-reference
+    review_status: approved-with-risk
+    rights_status: not-applicable
+    allowed_use: design-reasoning
+    rationale: "Use horizontal perspective, repeated plane spacing, and a horizon-like light axis when an ultra-wide rhythm is needed."
+    tags:
+      composition: [horizontal-flow, deep-perspective, central-focus]
+      light: [illuminated-edge, beam-light]
+      material: [glass, translucent-surface]
+      color: [cool-spectrum, restrained-neon]
+      risk: [template-tech, portal-shape]
+    preserve: ["distance rhythm between planes", "horizon-like light axis"]
+    avoid: ["recognizable door or corridor", "stacked neon outlines", "symmetrical template tunnel"]
+    copy_policy: reject-all-reference-copy
+    canvas_policy: obey-canvas-lock
+
+  - id: GEN-004
+    title: Restrained chromatic light fields
+    classification: generative-reference
+    review_status: approved-public-abstraction
+    rights_status: not-applicable
+    allowed_use: design-reasoning
+    rationale: "Use a small number of geometric interfaces and localized spectral color to build a horizontal KV skeleton suitable for brand adaptation."
+    tags:
+      composition: [horizontal-flow, negative-space, central-axis]
+      light: [gradient-field, reflected-color-field]
+      material: [light-surface, abstract-form]
+      color: [spectral-accent, dark-contrast]
+    preserve: ["spectral color limited to a local area", "horizontal rhythm in a dark field", "distinct color roles"]
+    avoid: ["full-canvas rainbow gradient", "central lens flare", "color without spatial purpose"]
+    copy_policy: reject-all-reference-copy
+    canvas_policy: obey-canvas-lock
