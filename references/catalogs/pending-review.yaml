@@ -1,0 +1,14 @@
+schema_version: 2
+library: pending-review
+asset_mode: metadata-only
+entries:
+  - id: PENDING-001
+    title: Minimal light apertures
+    classification: pending-review
+    review_status: needs-review
+    rationale: "Restrained negative space and light are useful, but an aperture can become a recognizable door and violate Architectural Without Architecture."
+    preserve: ["dominant dark field", "restrained warm light", "low-saturation background"]
+    avoid: ["recognizable door outline", "journey metaphor", "generic future slogan"]
+    decision_needed: "Approve only when the aperture remains clearly abstract; otherwise classify as failure."
+    copy_policy: reject-all-reference-copy
+    canvas_policy: obey-canvas-lock
