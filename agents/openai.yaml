@@ -1,0 +1,4 @@
+interface:
+  display_name: "LIGHT KV"
+  short_description: "Reference-first enterprise technology KV design"
+  default_prompt: "Use $light-kv to plan a high-end enterprise technology key visual from my brief."
