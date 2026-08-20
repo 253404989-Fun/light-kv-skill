@@ -1,0 +1,37 @@
+schema_version: 2
+library: core-aesthetic-parents
+asset_mode: metadata-only
+entries:
+  - id: CAP-001
+    title: Flowing light and negative-space system
+    classification: core-aesthetic-parent
+    review_status: approved-public-abstraction
+    rights_status: not-applicable
+    allowed_use: design-reasoning
+    rationale: "Use black negative space, minimal luminous planes, translucent color fields, and restrained typography to establish tension through relationships rather than technology symbols."
+    tags:
+      composition: [negative-space, asymmetric-balance, vertical-rhythm]
+      light: [luminous-plane, illuminated-edge, optical-intersection]
+      material: [translucent-surface, abstract-form]
+      color: [dark-contrast, spectral-accent]
+    preserve: ["dark-field to luminous-form area ratio", "distance and occlusion between light forms", "restrained information hierarchy"]
+    avoid: ["literal object metaphors", "dense decorative details", "changing the target canvas to fit a reference"]
+    copy_policy: reject-all-reference-copy
+    canvas_policy: obey-canvas-lock
+
+  - id: CAP-002
+    title: Luminous planes in ambiguous space
+    classification: core-aesthetic-parent
+    review_status: approved-public-abstraction
+    rights_status: not-applicable
+    allowed_use: design-reasoning
+    rationale: "Use large abstract planes, illuminated edges, reflected color, and ambiguous depth to feel architectural without depicting architecture."
+    tags:
+      composition: [large-scale-planes, asymmetric-balance, negative-space]
+      light: [illuminated-edge, reflected-color-field, optical-intersection]
+      material: [light-surface, translucent-surface, abstract-form]
+      color: [dark-contrast, cool-spectrum, warm-accent]
+    preserve: ["large differences in plane scale", "edge light defining depth", "controlled warm-cool reflection in a dark field"]
+    avoid: ["turning abstract planes into rooms or buildings", "template portals", "decorative glow stacks"]
+    copy_policy: reject-all-reference-copy
+    canvas_policy: obey-canvas-lock
